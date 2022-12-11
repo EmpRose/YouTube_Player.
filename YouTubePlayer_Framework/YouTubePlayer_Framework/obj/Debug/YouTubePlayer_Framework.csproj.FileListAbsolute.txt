@@ -1,0 +1,11 @@
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\bin\Debug\YouTubePlayer_Framework.exe.config
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\bin\Debug\YouTubePlayer_Framework.exe
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\bin\Debug\YouTubePlayer_Framework.pdb
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\obj\Debug\YouTubePlayer_Framework.csproj.AssemblyReference.cache
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\obj\Debug\YouTubePlayer_Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\obj\Debug\YouTubePlayer_Framework.Form1.resources
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\obj\Debug\YouTubePlayer_Framework.Properties.Resources.resources
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\obj\Debug\YouTubePlayer_Framework.csproj.GenerateResource.cache
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\obj\Debug\YouTubePlayer_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\obj\Debug\YouTubePlayer_Framework.exe
+C:\Users\Matvej\source\repos\YouTubePlayer_Framework\YouTubePlayer_Framework\obj\Debug\YouTubePlayer_Framework.pdb
